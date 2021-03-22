@@ -16,4 +16,6 @@
    * item 3b
  ![github logo](/inages/logo.png)
  format: ![alt text](url)
- 
+  https://github.com - automatic!
+  [github](https://github.com)
+  
