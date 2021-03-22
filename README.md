@@ -1,6 +1,4 @@
- ![github logo](/inages/logo.png)
- format: ![alt text]()
-  https://github.com - automatic!
+ https://github.com - automatic!
   [github]https://gist.githubusercontent.com/mszep/d3235240cc6653d6eeaa/raw/5904b5dc0e19b983fab48b1398057b707dd6d696/resume
 
 Johnny Coder
