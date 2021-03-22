@@ -15,7 +15,7 @@
    * item 3a
    * item 3b
  ![github logo](/inages/logo.png)
- format: ![alt text](url)
+ format: ![alt text]()
   https://github.com - automatic!
   [github](https://github.com)
   
